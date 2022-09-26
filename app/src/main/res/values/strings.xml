@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MobileBMICalc</string>
+    <string name="calculate">Calculate</string>
+    <string name="the_bmi_is">The BMI is</string>
+    <string name="bmi">BMI</string>
+    <string name="status">Status</string>
+    <string name="Recalculate">Recalculate</string>
+    <string name="si">si</string>
+    <string name="imperial">imperial</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
